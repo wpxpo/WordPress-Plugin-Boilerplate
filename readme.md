@@ -4,8 +4,11 @@ This is a boilerplate for creating WordPress plugins.
 
 # Dev Workshop Feb, 2025
 **Tentative Date: 2025-02-06**
+**Host: Jisan Ahmed, Sr. SWE**
 
 **Subject:** Wordpress Plugin Project Structure & Boilerplate Creation
+
+**বি.দ্র. খাবারের সুব্যাবস্থা আছে। Thanks to Mr. Anik Biswas.**
 
 _More info coming soon_
 
