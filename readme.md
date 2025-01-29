@@ -1,7 +1,5 @@
 # WPXPO Plugin Boilerplate
 
-Hi, this is Owadud from WPXPO.
-
 This is a boilerplate for creating WordPress plugins.
 
 # Dev Workshop Feb, 2025
