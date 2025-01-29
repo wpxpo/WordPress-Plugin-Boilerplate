@@ -1,5 +1,7 @@
 # WPXPO Plugin Boilerplate
 
+Hi, this is Owadud from WPXPO.
+
 This is a boilerplate for creating WordPress plugins.
 
 # Dev Workshop Feb, 2025
@@ -19,3 +21,5 @@ _More info coming soon_
 - Learn how to fork a GitHub repository and submit a pull request.
 - If you are having problems with credentials, you can use [GitHub Desktop](https://desktop.github.com/download/).
 - Try to fork this repository and submit a pull request with your name in the readme.txt file.
+
+
