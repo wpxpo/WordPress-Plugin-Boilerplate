@@ -3,9 +3,9 @@
 This is a boilerplate for creating WordPress plugins.
 
 # Dev Workshop Feb, 2025
-**Tentative Date: 2025-02-06**
+**Tentative Date: TBA**
 
-**Host: Jisan Ahmed, Sr. SWE**
+**Host: TBA**
 
 **Subject:** Wordpress Plugin Project Structure & Boilerplate Creation
 
